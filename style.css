@@ -1,0 +1,195 @@
+/* Body */
+
+body{
+    border: 1px solid;
+    margin: 100px;
+    margin-top: 65px;
+    padding: 20px;
+}
+
+/* Navigation bar */
+
+*{
+    text-decoration: none;
+}
+
+
+.header{
+    background-color: white;
+    margin-left: 100px;
+    margin-bottom: 10px;
+    width: 100px;
+    height: 10%;
+    padding: 10px;
+}
+
+.call{
+    margin-left: 550px;
+    margin-top: -50px;
+}
+
+.value{
+    margin-left: 580px;
+    margin-top: -45px;
+}
+
+.search{
+    padding: 5px;
+    margin-left: 1000px;
+    margin-top: -45px;
+}
+
+.i{
+    margin-top: -24px;
+    margin-left: 1150px;
+}
+
+/* Navigation Bar */
+
+.nav{
+    width: 1190px;
+    margin: 10px;
+    background: rgb(0, 191, 255);
+}
+.navbar{
+    font-family: Times New 'Times New Roman', Times, serif;
+    padding-left: 15px;
+    padding-right: 10px;
+}
+
+.navdiv{
+    width: 1200px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+ul{
+    margin-top: 35px;
+    margin-right: 50px;
+}
+
+li{
+    list-style: none;
+    display: inline-block;
+}
+
+li a{
+    color: black;
+    font-weight: bold;
+    margin-right: 90px;
+}
+
+button{
+    background-color: rgb(255, 205, 22);
+    border-radius: 10px;
+}
+
+/* Background Image */
+
+.bg{
+    padding-top: 0px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: -10px;
+
+}
+
+/* Popular Hotels */
+
+.pop{
+    margin-top: -20px;
+    width: 275px;
+    margin-left: 50px;
+    font-family: georgia;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.line{
+    width: 1000px;
+    margin-top: -30px;
+    margin-left: 160px;
+}
+
+.arrow{
+    text-indent: 5px;
+    display: flex;
+    margin-right: 10px;
+    margin-top: -22px;
+    margin-left: 1115px;
+}
+
+/* Hotels */
+
+.F{
+    display: flex;
+    justify-content: stretch;
+    margin-right: 90px;
+}
+
+.india{
+    margin-left: 90px;
+    margin-top: 10px;
+    width: 300px;
+    height: 325px;
+    background-color: rgb(206, 204, 204);
+}
+
+.ind{
+    margin-top: -80px;
+    margin-left: 95px;
+}
+
+.btn{
+    display: inline;
+    margin-top: -80px;
+    margin-left: 240px;
+}
+
+.swiz{
+    margin-left: 90px;
+    margin-top: 10px;
+    width: 300px;
+    height: 325px;
+    background-color: rgb(206, 204, 204);
+}
+
+.swz{
+    margin-top: -7px;
+    margin-left: 5px;
+}
+
+.aust{
+    margin-left: 90px;
+    margin-top: 10px;
+    width: 300px;
+    height: 325px;
+    background-color: rgb(206, 204, 204);
+}
+
+.aus{
+    margin-top: -7px;
+    margin-left: 5px;
+}
+
+/* Hot Deals */
+
+.deal{
+    margin-top: -20px;
+    width: 275px;
+    margin-left: 50px;
+    font-family: georgia;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.lines{
+    width: 1050px;
+    margin-top: -30px;
+    margin-left: 105px;
+}
+
+/*  Offers  */
+
+
